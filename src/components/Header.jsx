@@ -1,7 +1,7 @@
 function Header() {
   return (
     <>
-      <header className="bg-[#212529] text-white py-5">
+      <header className="sticky top-0 bg-[#212529] text-white py-5">
         <div className="container m-auto px-4 flex justify-between items-center">
           <div className="logo text-3xl font-bold">
             <a href="/">R</a>
