@@ -1,7 +1,7 @@
 function Blog() {
   return (
     <>
-      <section className="bg-[#dee2e6] py-16" id="blog">
+      <section className="bg-white py-16" id="blog">
         <div class="container m-auto px-4">
           <h2 className="text-center text-3xl font-bold">Blog</h2>
           <div className="flex justify-center flex-wrap gap-10 mt-5">
