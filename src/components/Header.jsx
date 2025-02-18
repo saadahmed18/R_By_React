@@ -10,10 +10,10 @@ function Header() {
             <img className="hover:cursor-pointer md:hidden" src="/icons/menu.webp" alt="Menu Icon" />
             <ul className="hidden md:flex gap-5">
               <li>
-                <a href="/">Home</a>
+                <a href="#home">Home</a>
               </li>
               <li>
-                <a href="/">About</a>
+                <a href="#about">About</a>
               </li>
               <li>
                 <a href="/">Services</a>
