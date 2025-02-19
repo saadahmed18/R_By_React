@@ -15,8 +15,8 @@ function About() {
               metus quis ipsum mattis, vitae laoreet est posuere. Mauris <br />
               bibendum eros massa, sit amet tempor sem lobortis non.
             </p>
-            <Button />
-            <Button />
+            <Button nameBtn="Hire Me"/>
+            <Button nameBtn="View CV" />
           </div>
         </div>
       </section>

@@ -10,7 +10,7 @@ function Hero() {
               I’m Ridho
             </h1>
             <p className="text-[#808080]">Freelancer Web Developer</p>
-            <Button />
+            <Button nameBtn="Hire Me"/>
           </div>
           <div>
             <img src="/images/hero.webp" alt="Hero" />
