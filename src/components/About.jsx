@@ -16,7 +16,7 @@ function About() {
               bibendum eros massa, sit amet tempor sem lobortis non.
             </p>
             <Button nameBtn="Hire Me"/>
-            <Button nameBtn="View CV" />
+            <Button stylec="ml-3" nameBtn="View CV" />
           </div>
         </div>
       </section>

@@ -12,7 +12,7 @@ function Services() {
           </div>
           <div className="flex justify-center flex-wrap gap-10">
             <div className="bg-[#212529] p-6 rounded-lg text-center">
-              <img src="/icons/web-development.webp" alt="Web Development Icon" />
+              <img className="m-auto" src="/icons/web-development.webp" alt="Web Development Icon" />
               <h3 className="my-5 text-white">Web Development</h3>
               <p className="text-[#dbd6d6]">
                 Lorem ipsum dolor sit <br />
@@ -22,7 +22,7 @@ function Services() {
               </p>
             </div>
             <div className="bg-[#212529] p-6 rounded-lg text-center">
-              <img src="/icons/web-design.webp" alt="Web Design Icon" />
+              <img className="m-auto" src="/icons/web-design.webp" alt="Web Design Icon" />
               <h3 className="my-5 text-white">Web Design</h3>
               <p className="text-[#dbd6d6]">
                 Lorem ipsum dolor sit <br />
@@ -32,7 +32,7 @@ function Services() {
               </p>
             </div>
             <div className="bg-[#212529] p-6 rounded-lg text-center">
-              <img src="/icons/mobile.webp" alt="Mobile Icon" />
+              <img className="m-auto" src="/icons/mobile.webp" alt="Mobile Icon" />
               <h3 className="my-5 text-white">App Design</h3>
               <p className="text-[#dbd6d6]">
                 Lorem ipsum dolor sit <br />
