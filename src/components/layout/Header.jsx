@@ -1,4 +1,5 @@
 import { useState } from "react";
+import { Link } from "react-router";
 
 function Header() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -8,7 +9,7 @@ function Header() {
       <header className="sticky top-0 bg-[#212529] text-white py-5">
         <div className="container m-auto px-4 flex justify-between items-center">
           <div className="logo text-3xl font-bold">
-            <a href="/">R</a>
+            <Link to="/">R</Link>
           </div>
           <nav>
             <button className=" md:hidden" onClick={() => setIsMenuOpen(!isMenuOpen)}>
